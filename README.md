@@ -1,0 +1,2 @@
+# Matlab-FilteringandPlotting
+file ini merupakan salah satu penunjang analisa penelitian pada tugas akhir saya, dikarenakan data raw yang dihasilkan terlalu banyak menghasilkan gap dan spike sehingga mengakibatkan prosentase ML algoritma NBC rendah. oleh karenanya digunakan pemrograman matlab ini untuk mensimulasikan proses filtering secara offline sebelum di implementasikan pada aplikasi android studio, hal ini dilakukan untuk mempercepat proses analisa dan pembuktian rumus secara praktikal. pada proses filtering digunakan metode SES (Single Exponential Smoothing).
